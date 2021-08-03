@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Large Meteor Material
+  m_Shader: {fileID: -6465566751694194690, guid: aede33a56a9ca474385351bb292fd45b, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_a63c88141903441c827373e5a27a61fa:
+        m_Texture: {fileID: 2800000, guid: 47cf79e8868e8cf4a8380cba7b0dc684, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_04c5bf4d2511436c905e44ab10947eb4: 5.5
+    - Vector1_1a6891bbd5444d7dbe60b47a5ef297d6: 0
+    - Vector1_63e82c5cde6d44a6a42dad1886e9548d: 3
+    - Vector1_88b4e2d573f04ba3a2cf0f939970a601: 2
+    - Vector1_8ba0f3f505c6419fb40a8103607781b3: 25
+    - Vector1_ada1affc33134b2fa6ed9c7913947a59: 0
+    - Vector1_cacd048c021a40528c3b923c33cdecd4: 2.5
+    - Vector1_f0153fa2ed8c4e1191b656fd2e7e55f4: 5
+    - Y_Axis: 0.0025
+    - _BendingAmount: 0.0025
+    m_Colors:
+    - Color_050cc731e6fc4c6b9875889e38778a4e: {r: 766.9961, g: 152.59608, b: 96.37647, a: 1}
+    - Color_62dc7c59a0824286b260941346761b9b: {r: 0, g: 0, b: 0, a: 1}
+    - Color_6665cee69f9849e193947c98e451be4e: {r: 766.9961, g: 317.23923, b: 124.486275, a: 1}
+    - Vector2_2cb00a1af0224868a56f73757c6d758a: {r: -0.1, g: -0.1, b: 0, a: 0}
+    - Vector2_433c37cbed5b45f8993f65423a2d5ea2: {r: 0.1, g: 0.2, b: 0, a: 0}
+  m_BuildTextureStacks: []
