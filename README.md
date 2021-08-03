@@ -1,5 +1,5 @@
 # Avoid-The-Rocks
-Sapce Theme Mobile Runner Game 3D  
+Space Theme Mobile Runner Game 3D  
   
 The Project integrates:
 * Unity SDK
