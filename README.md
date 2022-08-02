@@ -2,10 +2,10 @@
 Space Theme Mobile Runner Game 3D  
   
 The Project integrates:
-* Unity SDK
+* Unity Game Engine API
 * Universal Render Pipeline (URP)
 * custom shaders for mobile using Shader Graph
 * Scriptable objects
-* Visual Studio C# coding
+* C# scripting
 * 3D Models using Blender
-* Profiler framerate troubleshooting and optimazation for mobile
+* performance troubleshooting and optimazation for mobile
