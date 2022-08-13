@@ -9,3 +9,10 @@ The Project integrates:
 * C# scripting
 * 3D Models using Blender
 * performance troubleshooting and optimazation for mobile
+  
+  
+  
+  
+![Alt Text](https://github.com/niranza/Avoid-The-Rocks/blob/master/gifs/avoid_the_rocks_1.jpg)  
+![Alt Text](https://github.com/niranza/Avoid-The-Rocks/blob/master/gifs/avoid_the_rocks_2.jpg)  
+![Alt Text](https://github.com/niranza/Avoid-The-Rocks/blob/master/gifs/avoid_the_rocks_3.jpg)  
